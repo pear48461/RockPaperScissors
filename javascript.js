@@ -13,3 +13,8 @@ function getComputerChoice() {
 console.log(x);
 console.log(getComputerChoice());
 
+function getHumanChoice() {
+    
+}
+
+//const string = String(window.prompt("Your choice here"))
