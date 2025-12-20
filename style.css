@@ -1,1 +1,9 @@
 * {background-color: purple;}
+
+button {
+    width: 150px;
+    height: auto;
+    background-color: aquamarine;
+    border-radius: 3px;
+    font-size: xx-large;
+}
